@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=game2048()
+comment1.params=
+comment1.target=void\ playGame()
+comment2.params=
+comment2.target=int\ readInput()
+comment3.params=one\ two
+comment3.target=boolean\ compareTile(Tile,\ Tile)
+comment4.params=key
+comment4.target=void\ makeMove(int)
+comment5.params=
+comment5.target=void\ printBoard()
+comment6.params=
+comment6.target=void\ initializeBoard()
+comment7.params=
+comment7.target=void\ spawnTwo()
+comment8.params=row\ col
+comment8.target=boolean\ isEmpty(int,\ int)
+comment9.params=
+comment9.target=java.util.ArrayList\ getEmptyTiles()
+numComments=10

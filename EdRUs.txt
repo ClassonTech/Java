@@ -1,0 +1,30 @@
+Jim Nasium
+mgr
+45000.0 salary
+Fitness & Leisure
+Lazy Susan
+mgr
+55000.0 salary
+Home Furnishings
+Gene Theory
+mgr
+10000.0 salary
+Fine Jewelry     
+Michael Zhou
+apr
+8.50 per Hour
+47
+2103.21 Monthly sales
+John M. Smyth
+help
+7.75 per hour
+21
+Peter Piper
+apr
+8.25 per Hour
+38
+1744.39 Monthly sales
+Pied Piper
+help
+8.00 per Hour
+45

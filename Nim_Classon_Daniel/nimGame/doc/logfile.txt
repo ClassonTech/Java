@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-6-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/media/daniel/PENDRIVE/Comsci/Java/U3/nimGame
+-d
+/media/daniel/PENDRIVE/Comsci/Java/U3/nimGame/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/media/daniel/PENDRIVE/Comsci/Java/U3/nimGame/nimCPU.java
+<---- end of javadoc command ---->
+Loading source file /media/daniel/PENDRIVE/Comsci/Java/U3/nimGame/nimCPU.java...
+/media/daniel/PENDRIVE/Comsci/Java/U3/nimGame/nimCPU.java:165: illegal start of expression
+            do
+            ^
+1 error
