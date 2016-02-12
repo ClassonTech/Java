@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=anArray
+comment0.target=QuickSorter(int[])
+comment1.params=
+comment1.target=void\ sort()
+comment2.params=start\ end
+comment2.target=void\ sort(int,\ int)
+comment3.params=i\ j
+comment3.target=void\ swap(int,\ int)
+numComments=4

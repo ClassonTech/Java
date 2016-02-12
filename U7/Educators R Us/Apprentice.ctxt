@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ t\ d\ i\ d2
+comment0.target=Apprentice(java.lang.String,\ java.lang.String,\ double,\ int,\ double)
+comment1.params=
+comment1.target=void\ computePay()
+comment2.params=
+comment2.target=double\ calcBonus()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

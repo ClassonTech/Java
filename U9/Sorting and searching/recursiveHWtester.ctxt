@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=a\ key
+comment1.target=int\ seqSearch(int[],\ int)
+comment2.params=a\ key
+comment2.target=int\ binSearch(int[],\ int)
+numComments=3

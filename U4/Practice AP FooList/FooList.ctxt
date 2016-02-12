@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=FooList(int)
+comment1.params=key
+comment1.target=boolean\ found(java.lang.String)
+comment2.params=entry
+comment2.target=void\ addFoo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ removeRandomFoo()
+comment4.params=i
+comment4.target=java.lang.String\ getFoo(int)
+comment5.params=
+comment5.target=int\ getFooLength()
+comment6.params=
+comment6.target=void\ fillFooList()
+numComments=7

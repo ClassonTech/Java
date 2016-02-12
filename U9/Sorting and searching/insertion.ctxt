@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=arr\ array
+comment1.target=int[]\ readInts(int[],\ java.lang.String)
+comment2.params=a\ key
+comment2.target=int\ location(int[],\ int)
+comment3.params=a
+comment3.target=void\ print(int[])
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ header()
+comment1.params=
+comment1.target=void\ main()
+comment2.params=stack\ from\ to\ other
+comment2.target=void\ move(int,\ int,\ int,\ int)
+comment3.params=str
+comment3.target=void\ print(java.lang.String)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ t\ d\ i
+comment0.target=Help(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.params=
+comment1.target=void\ computePay()
+comment2.params=s
+comment2.target=java.lang.String\ toString(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

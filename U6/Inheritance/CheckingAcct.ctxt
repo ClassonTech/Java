@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CheckingAcct()
+comment1.params=amt
+comment1.target=void\ writeCheck(double)
+comment2.params=
+comment2.target=void\ deductFees()
+comment3.params=amt
+comment3.target=boolean\ validateFunds(double)
+numComments=4

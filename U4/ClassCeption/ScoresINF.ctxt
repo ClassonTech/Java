@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoresINF()
+comment1.params=line
+comment1.target=void\ getScores(java.lang.String)
+comment2.params=
+comment2.target=int\ findAverage()
+numComments=3

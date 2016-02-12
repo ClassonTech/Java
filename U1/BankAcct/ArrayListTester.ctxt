@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=s\ accts
+comment1.target=void\ printList(java.lang.String,\ java.util.ArrayList)
+comment2.params=accts
+comment2.target=void\ removeL300(java.util.ArrayList)
+comment3.params=accts
+comment3.target=void\ replaceG700(java.util.ArrayList)
+numComments=4
